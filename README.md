@@ -6,5 +6,3 @@ En este repositorio estarán mis soluciones a los ejercicios propuestos en el [p
 
 ## Fuentes:
 Repositorio donde se suben los ejercicios: https://github.com/JaviCeRodriguez/py-study-group
-
-Emojis de Twemojis: https://twemoji.twitter.com
